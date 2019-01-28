@@ -13,8 +13,8 @@ public class Anagram {
 	 * if both String are anagram
 	 */ public static boolean isAnagram(String word, String anagram) {
 		if (word.length() != anagram.length()) {
-			//anagram is done
-			return false;
+			System.out.println("length of anagram"+anagram.length());
+			 return false;
 		}
 		char[] chars = word.toCharArray();
 		for (char c : chars) {
