@@ -13,6 +13,7 @@ public class Anagram {
 	 * if both String are anagram
 	 */ public static boolean isAnagram(String word, String anagram) {
 		if (word.length() != anagram.length()) {
+			//anagram is done
 			return false;
 		}
 		char[] chars = word.toCharArray();
