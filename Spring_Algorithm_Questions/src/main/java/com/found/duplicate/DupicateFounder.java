@@ -46,7 +46,7 @@ public class DupicateFounder {
 			    System.out.println(str1);
 				 str2=str.replace(str1,"");
 				 System.out.println(str2);
-				 //str=str2;
+				 //taking duplicates here only
 				 
 				}
 			}
