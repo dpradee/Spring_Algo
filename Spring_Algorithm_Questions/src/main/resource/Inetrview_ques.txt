@@ -1,0 +1,14 @@
+Tell me about yourself
+	How will u calculate the num of object created in a multiple classes?
+	Give me the way of creating objects in java?
+	What is the significance of static and tell me the useCases where we can use the static keyword in java?
+	Suppose there is a file having multiple words and u have to reach end of the file how wil you achieve it?
+	What to load a class in java?
+	Tell me 5 aggregate functions in sql?
+	Tell me the use of the serialize keywords in java?
+	What is the PathVariabe in Spring?
+	How will you manage the 2nd level cache in JPA?
+	How will you connect with the databse using standalone java using hibernate?
+	Tell me the shortcut keywords used in the intellije?
+	How will you right the query to find top 100 records using sql?
+	How will you add the records from a file in db using java?
