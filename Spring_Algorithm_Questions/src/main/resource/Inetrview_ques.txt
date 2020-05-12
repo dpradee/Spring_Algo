@@ -18,3 +18,10 @@ Tell me about yourself
 	Tell me why u wnt to change ur current org so early ?
 	Tell me about design patterns?
 	Tell me about how you connect with Lambda?
+        Tell me about your project?
+	Tell me how you find the average time using Springboot in ur application?-->AOP
+	Tell me about how will u rollback ur application when ur last step in amazon like         shipping fails and how will you perform using SpringBoot?-àEvent based
+	Write a SingleTon lazy initialization class using Synchronized block?
+	Write a query to find the Nth highest Salary of an employee?
+	How will you handle exception in ur application using minimal catch block usage?
+	Any knowledge on the distributed event applications in java?
