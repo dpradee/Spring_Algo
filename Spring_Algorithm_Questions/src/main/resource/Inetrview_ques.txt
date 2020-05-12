@@ -12,3 +12,9 @@ Tell me about yourself
 	Tell me the shortcut keywords used in the intellije?
 	How will you right the query to find top 100 records using sql?
 	How will you add the records from a file in db using java?
+        Tell me about your project?
+	Tell me about spring security how it works?
+	Tell me about Kafka Connectors how it works?
+	Tell me why u wnt to change ur current org so early ?
+	Tell me about design patterns?
+	Tell me about how you connect with Lambda?
