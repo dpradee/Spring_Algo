@@ -1,4 +1,4 @@
-Tell me about yourself
+  Tell me about yourself
 	How will u calculate the num of object created in a multiple classes?
 	Give me the way of creating objects in java?
 	What is the significance of static and tell me the useCases where we can use the static keyword in java?
@@ -12,16 +12,57 @@ Tell me about yourself
 	Tell me the shortcut keywords used in the intellije?
 	How will you right the query to find top 100 records using sql?
 	How will you add the records from a file in db using java?
-        Tell me about your project?
+	Tell me about your project?
 	Tell me about spring security how it works?
 	Tell me about Kafka Connectors how it works?
 	Tell me why u wnt to change ur current org so early ?
 	Tell me about design patterns?
 	Tell me about how you connect with Lambda?
-        Tell me about your project?
-	Tell me how you find the average time using Springboot in ur application?-->AOP
-	Tell me about how will u rollback ur application when ur last step in amazon like         shipping fails and how will you perform using SpringBoot?-àEvent based
-	Write a SingleTon lazy initialization class using Synchronized block?
-	Write a query to find the Nth highest Salary of an employee?
-	How will you handle exception in ur application using minimal catch block usage?
-	Any knowledge on the distributed event applications in java?
+	How microservcies modules are connecting each other?
+	where gradle .gradle
+	nexus repository--- we shold store all dependency----i should not get itrration when we are getting from marke place
+	1,2,4,+,4,-,768,/,6,7,8,0.
+	1,2,4,+,4,-,768,/,6.7,8,0.--------------stack
+	how to resolve cyclic dependency
+	unittesting--i want to test exception error code--
+	custum deserialize object
+	strictfp---
+	google api want to test
+	ctr+h,ctr+r,alt+sft+f10
+	
+	aggregete funct----max,min,count,average,sum
+	Hibernate datasource----
+	sns--topic-- -sqs --knesies--
+	
+	
+	To find the joining date of each employee from dept and employee table using sql?
+	How will you design an uber application?
+	Explain bean life cycle?
+	Explain the difference between shallow cloning and deep cloning?
+	What is the qualifier in spring?
+	Where will you store the coordinates of the uber driver on server?
+	Hibernate what is the caching in hibernate?
+	What is garbage collector and how it works internally?
+	What is the difference between hashcode and equals in java?
+	What is the serialization in java explain it how it works?
+	How many design patterns used by hibernate..
+	What is the full form of rest. representational state transfer
+	what is the object monitor.
+	what is the object level lock and class level lock
+	sort the array in increasing order--->{16,17,15,6,5,4,3} by using (on)1 time complexity
+	How to implement custum sorting when you have only .jar file of custum clss
+	
+	---Xebia Labs Whitefield Video Interview 1st   Round Bangalore 2020----
+	
+	How will you handle the exception globally using springboot feature?-->@ControllerAdvice
+	How will you configure the Roles in spring so your roles can be read by the apis liek @preAuthorize(has_role) ? By using Spring Authority method
+	What are the types of scopes in spring?
+	How will you write a code for example ,if you have to create a datasource instance one time using spring configuration? -->using @Bean in Configuration file means creating object.
+	Write a program to find the longest adjacent consecutive length in an array using java?
+	int a[] = {3,9,1,10,4,20,2,5};
+find the longest adjacent consequitve length in this array
+
+	Tell me about your project?
+	Did you work on API Gateway?
+	Did you work on Apache Kafka api in spring?
+	
