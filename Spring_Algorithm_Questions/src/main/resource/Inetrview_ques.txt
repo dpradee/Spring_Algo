@@ -66,3 +66,20 @@ find the longest adjacent consequitve length in this array
 	Did you work on API Gateway?
 	Did you work on Apache Kafka api in spring?
 	
+	Finastra Domlur Video Interview 1st Round Bangalore 2020
+
+
+	
+Tell me about yourself.
+	Write a program having a terabytes of file and you have to find the repeated words using java?
+	Tell me which design pattern will you use in the Elevator design?
+	What is the ref Cursor?
+	What are the cache synchronization strategies used in the hibernate?
+	What is the difference between pessimistic and optimistic locking in jpa?
+	What is the marker interface?
+	What is the difference between Statement and PreparedStatement?
+	What is the difference between classnotfounderror and noClasDeffounderror in java?
+	What is the jsp implicit objects in jsp?
+	What is the scriplet tags in  jsp?
+	Difference between BufferedInputStream and FileInputStream in java?
+	
