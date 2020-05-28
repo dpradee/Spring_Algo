@@ -82,4 +82,89 @@ Tell me about yourself.
 	What is the jsp implicit objects in jsp?
 	What is the scriplet tags in  jsp?
 	Difference between BufferedInputStream and FileInputStream in java?
+	What is the 2-phase commit in microservices
+	what is theyoung and old generation in heap memory.
+	what is the changes made in interfaces in java 8 and other version.
+	diffrance b/w abstract between interface based on java 8.
+	can u ovverride default method.
+	print 1-10 in consecutive order in multithred env like(t1,t2 ,t3 try to execute)
+	
+	
+	Morgan Stanely Interview external Webex 1st Round Banaglore 2020
+
+
+	
+Tell me about your project.
+	Tell me how to use the microservices in ur application.
+	How do you manage transaction in your application?
+	What Is the difference between StringBuffer and StringBuilder.
+	What is the Immutability in Java?
+	What is the Class Type Synchronization and Instance type synchronization.
+	Scenario based questions on the immutable class.
+	Write a program to remove the duplicate value in hashmap and then add remaining elements which are not duplicate in map again.
+	Write a program to find the max num repeated in a 4*4 dimensional array.[1 1 1 1 ,0 0 0 0, 1,0,1,1,0]
+	How to delete a node from binary search tree write logic.
+	Difference between abstract and interface in java?
+	What are the design pattern in Microservices?
+	How does ConcurrentHashmap works internally?
+	What will happen if ur are reading and writing any data using two threads will it be accessible parallel or sequentianl.
+	How did you use JPA in Springboot .
+	What are the CRUD operation u have implemented in ur project?
+	
+	AllState
+
+
+
+(1)    What is difference between inheritance and composition.
+
+(2)    What is object class. What is significance of Object class.
+
+(3)    Two type of cloning.(1)Shallow cloning (2) Deep cloning.
+
+(4)    How to create deep cloning.
+
+(5)    When cloneNotSupported exceptions throw.
+
+(6)    Can override private method. And if we try to override then which exception will throw.
+
+(7)    If we have 100 kb file and we have to compress to 1kb file, again if we decompress it then it will be original file. Here I have to write  our own algorithm            to compress and decompress.
+
+              (8)    What is the disadvantage of Inheritance.
+			  
+			  ------Varifone Interview-------
+1.Tell me about your project.
+2.what is cloud watch.
+3.How Dabezium worked.
+4.diffrance between interface and abstract classes based on java 8 with real time example.
+5.How can you handle exception at thread level.		
+6. How IOC container working in spring.
+7.How to create your own IOC container ....tell the approach and psedu code.
+8. what is proxy design pattern .Is there another way core java we can achieve this feature .
+9.which method will call when we call print(null)---within these overloaded methods a-print(object obj)	 b- print(String obj)	 c- print(StringBuilder obj)	  
+10.some confusing question on overlading concept similer to above questions.
+11.can we ovrload main method.
+12.how can you restict to break singloton pattern even by Reflection Api.
+13.What are design patern you used expalin stratgy design pattern.
+14.  How can  you print{1.1,1.2,1.3,1.4.5,1.3.5.6,1.2,1.2.3.4} in tree post order.
+
+-----Second round-------
+1.  diffrance between interface and abstract classes based on java 8 with real time example.with diffrent scenario questions
+2.Can we make private method and private instance variable inside abstract class.
+3.If yes for above questions then what is the use ...how can u utilize this concept?
+4.How class loaded in java.
+5. why JVM became as platform dependent....if its not made as dependent then what will be impact of it.
+6.How load class at runtime.
+7.whn u r getting classNotfoundexception and when NoClassDefinition exception.
+8.What JDK,JRE
+9.How jave knows file at class path.
+10. If i have 1000 lines of syatem.out.print("msg")..i will give u .class file then how can u store all print details in file and give it to me.(only core java and u dont know logging mechanism)
+11.For above question if i will sahre my source code and you have to imlement logging ,echhanism then how will u implement it for all 1000 lines of code location.(framework not allowed).
+
+12.How can you increase JVM memory.
+13. How can you execute.exe file ny java prograame.
+14.How will you handle with dead lock situation.
+15.what is the work of JVM.
+16.expalin about System.out.prinln
+
+
 	
