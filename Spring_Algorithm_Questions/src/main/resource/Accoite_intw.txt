@@ -1,0 +1,104 @@
+public final class student{
+private final String id;
+private final String name;
+
+public student (String id,String name){
+this.id=id;
+this.name=name;
+}
+public string getId(){
+return id;}
+
+public string getId(){
+return id;
+}
+public string getName(){
+return name;
+}
+}
+--------------------------
+
+Class A{
+m1() { sysout “A m1”}
+m2() {sysout “A m2” }
+}
+Class B ext A {
+m1() {sysout “B m1” }
+m3() {sysout “B m3” }
+}
+Class Main{
+A a = new A();
+A ab = new B();
+B b = new B();
+
+a.m2();//A m2
+a.m3();//CE erro
+
+ab.m1();//B m1
+ab.m2();//A m2
+ab.m3();//CE
+
+b.m2();//A m2
+b.m3();//B m3
+}
+-----------------------
+
+Interface A{ m1() }
+
+@Service
+Class c1 impl A{ m1() }
+
+@Service
+Class c2 impl A{ m1() }
+
+Controller ->
+@Autowired
+@qualifer(name="c1")
+Private A a;
+
+a.m1();//c1 m1
+
+--------------
+String s="pradeep";
+String s2="peedeep"
+String s2="dubeyte"
+
+for(int i=0;i<=s.lenght-1,i++){
+st.cgT
+s2(int j=s.lenth-1;j>=1,j--)
+}
+
+for(int i=0;i<=s.lenght-1,i++){
+s2=s2.substring(0,index)+s2.substring(index+1,s2.length());
+s2(int j=s.lenth-1;j>=1,j--)
+
+
+
+public class A{
+static Set<interger>set= new Hashset();
+set.add(1)
+set.add(2)
+set.add(13)
+
+p s v main(string a []){
+Thread t1=new Thread((){
+set.add(25)
+})
+}
+t.start()
+for(in a:set){
+sys(a)
+}
+}
+
+-----------------------
+Given binary tree [3,9,20,null,null,15,7]
+
+   3
+-----9
+------------29
+-null
+--null---15---
+-----7
+
+
