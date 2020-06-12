@@ -1,0 +1,50 @@
+Public class SingletonDemo{
+Private static SingletonDemo inst=null;
+private SingletonDemo(){
+//not allowed to multiple object
+}
+
+public static synchronized SingletonDemo getInstance(){
+if(inst!=null){
+inst= new SingleTonDemo();
+}
+retun inst;
+}
+}
+
+public class Node{
+Node next;
+int data;
+}
+LinkedList{
+Node node;
+
+LinkedList getReverse(LinkedList old){
+Linkedist reverse;
+
+int i=old.lenghth();
+
+while( i>=0){
+List temp=list.get(i);
+reverse.add(temp.next.data);
+i--;
+}
+
+}
+
+return reverse;
+}
+
+int a[]= 0 1 1 0 0 1 1
+0 0 0 0 1 1 1 1
+11 1 1 0 0 0 0
+
+
+for(int i=0;i<a.lenth-1;i++){
+for(int j=0;i<a.lenth-1;j++){
+if(a[i]==0  && a[j]==1 && i!=j){
+a[i]==a[j]
+}
+
+}
+}
